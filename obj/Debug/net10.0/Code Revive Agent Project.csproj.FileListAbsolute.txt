@@ -1,0 +1,56 @@
+D:\Learn AI\Code Revive Agent Project\bin\Debug\net10.0\appsettings.Development.json
+D:\Learn AI\Code Revive Agent Project\bin\Debug\net10.0\appsettings.json
+D:\Learn AI\Code Revive Agent Project\bin\Debug\net10.0\Code Revive Agent Project.staticwebassets.endpoints.json
+D:\Learn AI\Code Revive Agent Project\bin\Debug\net10.0\Code Revive Agent Project.exe
+D:\Learn AI\Code Revive Agent Project\bin\Debug\net10.0\Code Revive Agent Project.deps.json
+D:\Learn AI\Code Revive Agent Project\bin\Debug\net10.0\Code Revive Agent Project.runtimeconfig.json
+D:\Learn AI\Code Revive Agent Project\bin\Debug\net10.0\Code Revive Agent Project.dll
+D:\Learn AI\Code Revive Agent Project\bin\Debug\net10.0\Code Revive Agent Project.pdb
+D:\Learn AI\Code Revive Agent Project\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Learn AI\Code Revive Agent Project\obj\Debug\net10.0\Code Revive Agent Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn AI\Code Revive Agent Project\obj\Debug\net10.0\Code Revive Agent Project.AssemblyInfoInputs.cache
+D:\Learn AI\Code Revive Agent Project\obj\Debug\net10.0\Code Revive Agent Project.AssemblyInfo.cs
+D:\Learn AI\Code Revive Agent Project\obj\Debug\net10.0\Code Revive Agent Project.csproj.CoreCompileInputs.cache
+D:\Learn AI\Code Revive Agent Project\obj\Debug\net10.0\Code Revive Agent Project.MvcApplicationPartsAssemblyInfo.cache
+D:\Learn AI\Code Revive Agent Project\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Learn AI\Code Revive Agent Project\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Learn AI\Code Revive Agent Project\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Learn AI\Code Revive Agent Project\obj\Debug\net10.0\scopedcss\bundle\Code Revive Agent Project.styles.css
+D:\Learn AI\Code Revive Agent Project\obj\Debug\net10.0\staticwebassets.build.json
+D:\Learn AI\Code Revive Agent Project\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Learn AI\Code Revive Agent Project\obj\Debug\net10.0\staticwebassets.development.json
+D:\Learn AI\Code Revive Agent Project\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Learn AI\Code Revive Agent Project\obj\Debug\net10.0\swae.build.ex.cache
+D:\Learn AI\Code Revive Agent Project\obj\Debug\net10.0\Code Revive Agent Project.dll
+D:\Learn AI\Code Revive Agent Project\obj\Debug\net10.0\refint\Code Revive Agent Project.dll
+D:\Learn AI\Code Revive Agent Project\obj\Debug\net10.0\Code Revive Agent Project.pdb
+D:\Learn AI\Code Revive Agent Project\obj\Debug\net10.0\Code Revive Agent Project.genruntimeconfig.cache
+D:\Learn AI\Code Revive Agent Project\obj\Debug\net10.0\ref\Code Revive Agent Project.dll
+D:\Learn AI\CodeReviveAgentProject\bin\Debug\net10.0\appsettings.Development.json
+D:\Learn AI\CodeReviveAgentProject\bin\Debug\net10.0\appsettings.json
+D:\Learn AI\CodeReviveAgentProject\bin\Debug\net10.0\Code Revive Agent Project.staticwebassets.endpoints.json
+D:\Learn AI\CodeReviveAgentProject\bin\Debug\net10.0\Code Revive Agent Project.exe
+D:\Learn AI\CodeReviveAgentProject\bin\Debug\net10.0\Code Revive Agent Project.deps.json
+D:\Learn AI\CodeReviveAgentProject\bin\Debug\net10.0\Code Revive Agent Project.runtimeconfig.json
+D:\Learn AI\CodeReviveAgentProject\bin\Debug\net10.0\Code Revive Agent Project.dll
+D:\Learn AI\CodeReviveAgentProject\bin\Debug\net10.0\Code Revive Agent Project.pdb
+D:\Learn AI\CodeReviveAgentProject\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Learn AI\CodeReviveAgentProject\obj\Debug\net10.0\Code Revive Agent Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn AI\CodeReviveAgentProject\obj\Debug\net10.0\Code Revive Agent Project.AssemblyInfoInputs.cache
+D:\Learn AI\CodeReviveAgentProject\obj\Debug\net10.0\Code Revive Agent Project.AssemblyInfo.cs
+D:\Learn AI\CodeReviveAgentProject\obj\Debug\net10.0\Code Revive Agent Project.csproj.CoreCompileInputs.cache
+D:\Learn AI\CodeReviveAgentProject\obj\Debug\net10.0\Code Revive Agent Project.MvcApplicationPartsAssemblyInfo.cache
+D:\Learn AI\CodeReviveAgentProject\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Learn AI\CodeReviveAgentProject\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Learn AI\CodeReviveAgentProject\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Learn AI\CodeReviveAgentProject\obj\Debug\net10.0\scopedcss\bundle\Code Revive Agent Project.styles.css
+D:\Learn AI\CodeReviveAgentProject\obj\Debug\net10.0\staticwebassets.build.json
+D:\Learn AI\CodeReviveAgentProject\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Learn AI\CodeReviveAgentProject\obj\Debug\net10.0\staticwebassets.development.json
+D:\Learn AI\CodeReviveAgentProject\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Learn AI\CodeReviveAgentProject\obj\Debug\net10.0\swae.build.ex.cache
+D:\Learn AI\CodeReviveAgentProject\obj\Debug\net10.0\Code Revive Agent Project.dll
+D:\Learn AI\CodeReviveAgentProject\obj\Debug\net10.0\refint\Code Revive Agent Project.dll
+D:\Learn AI\CodeReviveAgentProject\obj\Debug\net10.0\Code Revive Agent Project.pdb
+D:\Learn AI\CodeReviveAgentProject\obj\Debug\net10.0\Code Revive Agent Project.genruntimeconfig.cache
+D:\Learn AI\CodeReviveAgentProject\obj\Debug\net10.0\ref\Code Revive Agent Project.dll

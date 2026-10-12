@@ -1,0 +1,11 @@
+{
+  "action": "opened",
+  "repository": {
+    "fullName": "franklinfre/QuantPredictionApplication"
+  },
+  "pull_request": {
+    "number": 1,
+    "title": "Add employee API",
+    "body": "Added employee creation endpoint"
+  }
+}
